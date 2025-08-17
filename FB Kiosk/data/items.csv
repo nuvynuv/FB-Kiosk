@@ -1,0 +1,45 @@
+id,name,category,tag
+1,Apples,Fruit,Vegan
+2,Bananas,Fruit,Vegetarian
+3,Strawberries,Fruit,Vegan
+4,Oranges,Fruit,Vegan
+5,Bread,Bakery,Halal
+6,Wholemeal Bread,Bakery,Vegan
+7,White Bread,Bakery,Vegetarian
+8,White Rice,Pantry,Halal
+9,Brown Rice,Pantry,Vegan
+10,Lentil Soup,Pantry,Vegan
+11,Cereal,Pantry,Vegetarian
+12,Orange Juice,Beverages,Vegan
+13,Chicken Pie,Meat,Halal
+14,Canned Tomatoes,Pantry,
+15,Spaghetti,Pantry,Vegetarian
+16,Cheese,Dairy,Vegetarian
+17,Tofu,Pantry,Vegan
+18,Chicken Breast,Meat,Halal
+19,Beef Mince,Meat,Halal
+20,Muffins,Bakery,Vegetarian
+21,Chickpeas,Pantry,Vegan
+22,Spinach,Vegetables,Vegan
+23,Broccoli,Vegetables,Vegan
+24,Yogurt,Dairy,Vegetarian
+25,Milk,Dairy,Vegetarian
+26,Cooking Oil,Pantry,
+27,HSP Mixed,Prepared Meals,Halal
+28,HSP Lamb,Prepared Meals,Halal
+29,HSP Chicken,Prepared Meals,Halal
+30,Ramen,Noodle,Meat
+31,Nachos,Prepared Meals,Halal
+32,Salmon Fillet,Seafood,Halal
+33,Tuna Cans,Seafood,Halal
+34,Prawns,Seafood,Halal
+35,Crab Sticks,Seafood,Halal
+36,Shrimp Dumplings,Seafood,Halal
+37,Ice Cream,Dessert,Vegetarian
+38,Chocolate Cake,Dessert,Vegetarian
+39,Vegetable Soup,Prepared Meals,Vegan
+40,Spring Rolls,Prepared Meals,Vegan
+41,Sushi,Prepared Meals, Seafood/Meat
+42,Suspicious Stew, Prepared Meal, Suspicious
+43,Mi-Goreng,Noodle,Meat    
+44,Pad Thai,Noodle,Meat
